@@ -1,0 +1,24 @@
+field1:
+^mainArg
++arg1
++arg2
++arg3
+
+#Double field
+field1:
+^mainArgDouble
++arg1double
++arg2double
++arg3double
+
+#Another field
+field2:
+^mainArg
++arg1
++arg2
++arg3
+
+^rootMainArg
++rootArg1
++rootArg2
++rootArg3
